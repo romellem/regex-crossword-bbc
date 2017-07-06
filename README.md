@@ -1,4 +1,4 @@
-## Puzzle No. 3 – Wednesday 5 July
+# Puzzle No. 3 – Wednesday 5 July
 
 ### This is no ordinary crossword!
 
