@@ -45,7 +45,7 @@ it hard to see the similarities between say `[^MVZJ]` and `[VIMZJ]`.
 So, let's sort the literals to makes things easier for us down the road. We'll
 use this going forward.
 
-    (?# Character Classes Sorted)
+    # Character Classes Sorted
     
     0: [^CFHJLMQVXZ]+
     1: [^GJPVZ]{4}(.)[EFGU]{6}\1[^IJPVZ\s]{2}
