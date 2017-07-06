@@ -90,12 +90,13 @@ Everything should be setup the way we want it, so now we can start solving it!
 In the RegExes, there are a decent number of simple literals. Let's fill those
 in.
 
-    Filled in:
-      A0, D0, G0, H0, I0, K0,
-      D1, L1,
-      H2,
-      A3, I3, L3, M3, N3
-      B4, E4, F4, G4, J4, L4, N4
+> Filled in:
+> 
+> A0, D0, G0, H0, I0, K0,  
+> D1, L1,  
+> H2,  
+> A3, I3, L3, M3, N3  
+> B4, E4, F4, G4, J4, L4, N4
 
     +---+-----------------------------+
     |░░░| A B C D E F G H I J K L M N |
@@ -110,3 +111,17 @@ in.
 Some of those literals are references by [Backreferences](http://www.regular-expressions.info/backref.html).
 Let's fill those in where we can.
 
+> Filled in:
+> D2,  
+> D3,  
+> I4
+
+    +---+-----------------------------+
+    |░░░| A B C D E F G H I J K L M N |
+    +---+-----------------------------+
+    | 0 |   . . U . . E S T . N . . . |
+    | 1 | . . . T . . . . . . . R . . |
+    | 2 | . . . T . . . B . . . . . . |
+    | 3 | N . . U . . . . E . . E   - |
+    | 4 | . A . .   L O . E L . C .   |
+    +---+-----------------------------+
