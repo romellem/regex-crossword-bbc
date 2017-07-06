@@ -12,6 +12,8 @@
 
 ---
 
+## Setup the puzzle
+
 OK, so first thing, let's (painstakingly) write out the
 [Regular Expressions](http://www.regular-expressions.info/) that are in the
 attached image:
