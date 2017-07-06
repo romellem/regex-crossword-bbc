@@ -83,4 +83,4 @@ where we don't know the answer. At the start, we only have dots!
 
 
 
-[puzzle]: https://ichef.bbci.co.uk/images/ic/976xn/p057t19t.jpg "BBC RegEx Crossword"
+[puzzle]: puzzle.jpg "BBC RegEx Crossword"
