@@ -6,7 +6,7 @@
 > To complete the puzzle, find the letter matching both the horizontal and
 > vertical regex for each square.
 > 
-> ![BBC RegEx Crossword][puzzle]
+> ![BBC RegEx Crossword](puzzle.jpg)
 > 
 > (_[source](http://www.bbc.co.uk/programmes/articles/5LCB3rN2dWLqsmGMy5KYtBf/puzzle-for-today)_)
 
@@ -81,6 +81,3 @@ where we don't know the answer. At the start, we only have dots!
     | 4 | . . . . . . . . . . . . . . |
     +---+-----------------------------+ 
 
-
-
-[puzzle]: puzzle.jpg "BBC RegEx Crossword"
