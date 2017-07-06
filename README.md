@@ -83,3 +83,10 @@ where we don't know the answer. At the start, we only have dots!
     | 4 | . . . . . . . . . . . . . . |
     +---+-----------------------------+ 
 
+Everything should be setup the way we want it, so now we can start solving it!
+
+## Start solving the puzzle
+
+In the RegExes, there are a decent number of simple literals. Let's fill those
+in.
+
