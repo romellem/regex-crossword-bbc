@@ -90,3 +90,13 @@ Everything should be setup the way we want it, so now we can start solving it!
 In the RegExes, there are a decent number of simple literals. Let's fill those
 in.
 
+    +---+-----------------------------+
+    |░░░| A B C D E F G H I J K L M N |
+    +---+-----------------------------+
+    | 0 |   . . U . . E S T . N . . . |
+    | 1 | . . . T . . . . . . . R . . |
+    | 2 | . . . . . . . B . . . . . . |
+    | 3 | N . . . . . . . E . . E   - |
+    | 4 | . A . .   L O . . L . C .   |
+    +---+-----------------------------+
+
